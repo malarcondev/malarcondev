@@ -8,7 +8,7 @@
 Welcome to my Github page! I am Marcos and I am currently a Technical professional in systems analysis, graduated from IESTP Valle Grande!
 
 #### 🌱 Things I am currently working on: 
-- Looking for a job opportunity
+- Looking for a job opportunity to continue growing professionally
 - Taking online courses about DevOps
 - Finish getting certified in [AWS Cloud Practices Essentials](https://www.aws.training/SessionSearch?pageNumber=1&courseId=17675) 🚀 *coming soon*
 
