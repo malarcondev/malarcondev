@@ -16,7 +16,7 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improve my CV with new technologies
 
 #### :computer: Programming languages and tools: 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
