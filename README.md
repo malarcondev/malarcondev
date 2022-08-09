@@ -8,8 +8,8 @@
 Welcome to my Github page! I am Marcos and I am currently a Technical professional in systems analysis, graduated from IESTP Valle Grande!
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
+- Looking for a job opportunity
+- Taking online courses about DevOps
 - Finish getting certified in [AWS Cloud Practices Essentials](https://www.aws.training/SessionSearch?pageNumber=1&courseId=17675) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
