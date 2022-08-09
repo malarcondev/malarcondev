@@ -22,11 +22,12 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
