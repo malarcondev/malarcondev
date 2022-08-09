@@ -34,6 +34,7 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ☁ &#160;![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 <!--
 **AHMarcos/AHMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
