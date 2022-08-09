@@ -21,7 +21,7 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 #### :computer: Programming languages and tools: 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
