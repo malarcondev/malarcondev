@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alarcon-hermoza-a609521a6)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcos.alarcon@vallegrande.edu.pe)
 
-Welcome to my Github page! I am Marcos and I am currently a Technical professional in systems analysis, graduated from [IESTP Valle Grande](https://www.vallegrande.edu.pe)!
+>*Welcome to my Github page! I am Marcos and I am currently a Technical professional in systems analysis, graduated from [IESTP Valle Grande](https://www.vallegrande.edu.pe)!*
 
 #### 🌱 Things I am currently working on: 
 - Looking for a job opportunity to continue growing professionally
