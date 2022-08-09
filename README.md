@@ -19,7 +19,8 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
-- 💻 &#160; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=FF4800)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
