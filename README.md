@@ -10,7 +10,7 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finish getting certified in [AWS Cloud Practices Essentials](https://www.aws.training/SessionSearch?pageNumber=1&courseId=17675) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
