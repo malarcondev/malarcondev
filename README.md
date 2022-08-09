@@ -36,7 +36,7 @@ Welcome to my Github page! I am Marcos and I am currently a Technical profession
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)
 - 🥷 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)
 - 🔧 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/Quananhle/Java-Web-Developer)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)
