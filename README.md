@@ -1,9 +1,9 @@
 ## Hi there 👋 
 ### This is Marcos Alarcon!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AHMarcos)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/malarcondev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alarcon-hermoza-a609521a6)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcos.alarcon@vallegrande.edu.pe)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcos.alarconh@gmail.com)
 
 >*Welcome to my Github page! I am Marcos and I am currently a Technical professional in systems analysis, graduated from [IESTP Valle Grande](https://www.vallegrande.edu.pe)!*
 
